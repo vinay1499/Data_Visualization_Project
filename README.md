@@ -5,9 +5,9 @@ Group number: G-013
 
 Group members: SAI VINAY NANDIGAM && TARUN UPPUTURI             
                 
-Website URL: https://abhijeetamle.github.io/Satellite-Trajectory-Visualization/
+Website URL: 
 
-Original Dataset: https://www.ucsusa.org/resources/satellite-database
+Original Dataset: https://github.com/CSSEGISandData/COVID-19 
 
 
 Project Report: 
