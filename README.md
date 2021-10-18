@@ -19,7 +19,7 @@ Breakdown of work among group members:
 | 1. Line graph | TARUN UPPUTURI |  |
 | 2. Grouped Bar Chart | TARUN UPPUTURI |  |
 | 3. Color Map| SAI VINAY NANDIGAM  |  |
-| 4. All Satellites 3-D | SAI VINAY NANDIGAM  |  |
+| 4. | SAI VINAY NANDIGAM  |  |
 
 References:
 
