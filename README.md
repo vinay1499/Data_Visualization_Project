@@ -1,7 +1,7 @@
 # Visual Analysis on COVID-19
 CPSC-6030 Data Visualization Project 
 
-Group number: G-013
+Group number: G-13
 
 Group members: SAI VINAY NANDIGAM && TARUN UPPUTURI             
                 
