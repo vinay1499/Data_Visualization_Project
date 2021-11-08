@@ -60,14 +60,18 @@ padding-bottom: 30px;
 <div>
 <h3>Introduction<p style="text-align: left"> In December 2019, an unknown infectious disease that seems like pneumonia was found in Wuhan, China. Now called as Corona Virus, which is a contagious disease. The people affected by this disease had gone through respiratory illness. Many people worldwide lost their lives from the start of the disease to date, and still, people are fighting with the disease. There are many ways out that can help stop the spread of the disease. One of the most effective ways is to share the daily cases and the trends from the start of the disease spread. The following visualizations will help in understanding the severity of the virus. </p>  </h3>
 
-<h3>Visualization 1</h3>
-<center><img src="vis1.png" width="550" height="220"></center>
-<h3>Visualization 2</h3>
-<center><img src="vis2.png" width="550" height="220"></center>
-<h3>Visualization 3</h3>
-<center><img src="vis3.png" width="550" height="220"></center>
-<script></script>
+<div id="observablehq-view-95fea7f4"></div>
 
+<div id="observablehq-view-5ad652cc"></div>
+
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@50a840abbfaf45d7/covid-19-grouped-bar-chart.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "view") return new Inspector(document.querySelector("#observablehq-view-5ad652cc"));
+});
+</script>
 </div>
 </body>
 </html>
